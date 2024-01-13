@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work on  various projects
 - 📫 contact me on mail-shruti09dec@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ I love to write poetries too
+- ⚡ I love to write poems too
 
 <!---
 shrutim250/shrutim250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
