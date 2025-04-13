@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and aspiring soft
 - ✍️ **Fun Fact:** I love writing poems when I'm not coding!
 - 📫 **Let's Connect:** [shruti09dec@gmail.com](mailto:shruti09dec@gmail.com)  
   🔗 [LinkedIn](https://www.linkedin.com/in/shruti-26578824a)
+  🏆 HackerRank: Check out my coding challenges and solutions on https://www.hackerrank.com/profile/shruti09dec.
+  💻 LeetCode: Explore my problem-solving skills on https://leetcode.com/u/shruti_m250/.
+
+
 
 ---
 
