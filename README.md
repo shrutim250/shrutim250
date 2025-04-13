@@ -1,23 +1,51 @@
 # 👋 Hi, I’m Shruti
 
-Welcome to my GitHub profile! Here's a bit about me:
-
-- 👀 **I’m interested in:** Coding, exploring new technologies, and building innovative projects.
-- 🌱 **Currently a:** B.Tech student, always eager to learn and grow.
-- 💞️ **Looking to work on:** Various projects, from web development to exploring data structures, algorithms, and beyond.
-- 📫 **Contact me:** Feel free to reach out at **[shruti09dec@gmail.com]**.
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun Fact:** I love to write poems in my free time.
-
-## 🚀 Skills and Technologies:
-- **Programming Languages:** JavaScript, Java, and Python.
-- **Web Development:** React.js, Node.js, HTML, CSS, Express.js.
-- **Database Management:** MongoDB, SQL.
-- **Other Tools:** Git, GitHub, Visual Studio Code.
-
-## 📌 Featured Projects:
-Check out my repositories for exciting projects on web development, data structures, and more.
+Welcome to my GitHub profile! I'm a passionate tech enthusiast and aspiring software engineer, always excited to explore and build.
 
 ---
 
-Thank you for visiting! 😊 Feel free to explore my repositories and connect with me for collaboration.
+## 👩‍💻 About Me
+
+- 🎓 **Currently a:** 3rd-year B.Tech student at SRM University, Delhi-NCR.
+- 👀 **Interests:** Full-stack development, data structures & algorithms, real-time applications, and learning emerging technologies.
+- 🤖 **Exploring:** AI/ML with hands-on projects and practical use-cases.
+- 💻 **Tech Stack:** I enjoy working with JavaScript, Java, Python, and building innovative projects using modern tools.
+- ✍️ **Fun Fact:** I love writing poems when I'm not coding!
+- 📫 **Let's Connect:** [shruti09dec@gmail.com](mailto:shruti09dec@gmail.com)  
+  🔗 [LinkedIn](https://www.linkedin.com/in/shruti-26578824a)
+
+---
+
+## 🚀 Skills and Technologies
+
+### 💻 Programming Languages
+- JavaScript | Java | Python
+
+### 🌐 Web Development
+- React.js | Node.js | Express.js | HTML | CSS | Spring Boot
+
+### 🧠 AI/ML
+- Python (NumPy, Pandas, Scikit-learn, etc.)
+- Machine Learning Concepts & Projects
+
+### 🗄️ Databases
+- MongoDB | SQL
+
+### 🧰 Tools & Platforms
+- Git | GitHub | Visual Studio Code
+
+---
+
+## 📌 Featured Projects
+
+Check out my pinned repositories and recent commits for:
+- 🌐 Full-stack web applications
+- 🔁 Real-time chat systems (Spring Boot + React.js)
+- 🧠 AI/ML notebooks and models
+- 📊 DSA problem-solving
+- 🧪 Learning experiments with new tech stacks
+
+---
+
+Thank you for stopping by!  
+If you're interested in collaboration, feel free to reach out. Let's build something great together! 😊
