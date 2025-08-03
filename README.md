@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shruti
 
 Welcome to my GitHub profile!  
-I'm a passionate tech enthusiast and aspiring **Software Engineer**, always excited to explore and build innovative solutions.
+I'm a passionate tech enthusiast and aspiring **Software Developer**, always excited to explore and build innovative solutions.
 
 ---
 
