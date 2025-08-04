@@ -26,7 +26,7 @@
 🎓 **Final-year B.Tech student** at SRM University, Delhi-NCR  
 👀 **Interests:** Full-stack development, Data Analytics, AI/ML, DSA, and real-time applications  
 💻 **Tech Stack:** C, JavaScript, Java, Python — building with modern tools  
-✍️ **Fun Fact:** I write poems when I’m not coding!
+✍️ **Fun Fact:** I write, when I’m not coding!
 
 ---
 
