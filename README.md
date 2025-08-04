@@ -1,9 +1,25 @@
-# 👋 Hi, I’m Shruti
 
-Welcome to my GitHub profile!  
-I'm a passionate tech enthusiast and aspiring **Software Developer**, always excited to explore and build innovative solutions.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Shruti+%F0%9F%92%97" alt="Typing SVG" />
+  </a>
+</div>
 
----
+
+
+<div align="center" style="background-color:#ffe6f0; border: 2px dashed #ff99cc; border-radius: 15px; padding: 20px; margin: 20px; color:#99004d; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7;">
+  <h3>🌷✨ <em>Passionate Tech Enthusiast & Aspiring</em> <strong>Software Developer</strong> ✨🌷</h3>
+
+  💻 Fueled by curiosity and creativity, I love transforming complex ideas into seamless digital experiences.<br><br>
+
+  🌸 Whether it’s architecting backend logic or crafting polished UI/UX,<br>
+  I enjoy building full-stack applications that are both functional and beautiful.<br><br>
+
+  🛠️ From writing clean, scalable code to deploying real-world solutions,<br>
+  I’m on a journey to innovate, learn, and grow — one line of code at a time. 💖
+</div>
+
+
 
 ## 👩‍💻 About Me
 
